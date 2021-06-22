@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your test
+Grab my strong arm!
 Use the left arrow to go back!
 ---
 Holy buckets!
